@@ -59,10 +59,9 @@ hi, h2 {
 
 #pexels-photo {
      height: 600px;
-     width: 100%;
-<<<<<<< HEAD
-     background: url
-=======
-     background: url('/workspace/Awani-Ayodele-First-Project/images/pexels-photo-870170.jpeg')
->>>>>>> 7eba32e1a52ed7f401989563db5849ba8a1b1283
+     width: 80%;
+     padding-right: 50px;
+     padding-left: 50px;
+     background: url('../images/pexels-photo-870170.jpeg')
+     
 }
