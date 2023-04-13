@@ -56,3 +56,9 @@ hi, h2 {
 {
     border-bottom: 1px solid #3a3a3a;
 }
+
+#pexels-photo {
+     height: 600px;
+     width: 100%;
+     background: url('/workspace/Awani-Ayodele-First-Project/images/pexels-photo-870170.jpeg')
+}
